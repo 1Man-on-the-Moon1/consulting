@@ -1,6 +1,0 @@
-.env
-gpt_store.json
-.venv/
-venv/
-__pycache__/
-.DS_Store
